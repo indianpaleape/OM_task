@@ -1,6 +1,4 @@
-# Daily Spending Tracker
-Optimization Modeling: App Script project of an assignment made for SIS1
-# Daily Spending Tracker
+# Daily Spending Forecast 
 
 This project is a Google Apps Script that showcases the daily small spending of a single person, such as coffee or transportation expenses, for one week, and a forecast for one week of their spending based on the `Forecast.lin` formula and seasonality index. 
 
