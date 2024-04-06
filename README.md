@@ -5,10 +5,10 @@ This project is a Google Apps Script that showcases the daily small spending of 
 ## Usage
 
 1. **Setup Google Apps Script**:
-   - Create a new project by clicking the "New Project" tab.
+   - Create a new project by clicking the `New project` tab.
 
 2. **Create an html file**
-   - Click the "add file" tab. 
+   - Click the `add file` tab. 
 
 2. **Copy and Paste Code**:
    - Copy the code from the provided `Code.gs` file into your .gs file.
@@ -19,11 +19,11 @@ This project is a Google Apps Script that showcases the daily small spending of 
    - Run the script by clicking on the play button in the toolbar or by going to `Run` > `Run the selected function`.
 
 4. **Deploy the project**:
-   - Save the project and click the "Deploy" tab.
-   - Choose "New Deplyment" or "Test Deplyments".
+   - Save the project and click the `Deploy` tab.
+   - Choose `New Deployment` or `Test Deplyments`.
    - In the opened deployment window, choose Web App.
    - Provide a description for the project.
-   - Click "Deploy", and copy the provided link. 
+   - Click `Deploy`, and copy the provided link. 
 
 5. **Explore the spending**:
    - Once you have the link, use it to access the generated web app.
